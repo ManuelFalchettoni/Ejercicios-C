@@ -53,8 +53,8 @@ int main(){
     printf("\n--------------------\n");
 
     // Mostrar resultados
-    printf("Máximo: %d\n", maximo);
-    printf("Mínimo: %d\n", minimo);
+    printf("Maximo: %d\n", maximo);
+    printf("Minimo: %d\n", minimo);
     printf("Promedio: %.2f\n", promedio);
     return 0;
 }
